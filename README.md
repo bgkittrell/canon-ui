@@ -1,4 +1,4 @@
-This template should help get you started developing with Vue 3 in Vite.
+This is the frontend UI for a Podcast Chatbot app. 
 
 ## Recommended IDE Setup
 
